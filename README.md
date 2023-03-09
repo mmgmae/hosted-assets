@@ -6,9 +6,9 @@ View completed projects in my CodePen(@mmgmae) collection: 100 Day Challenge : h
 
 *******************************
 
-PROJECT START DATE - 11/30/2020
+PROJECT START DATE - 11/30/2022
 
-PROJECT END DATE - 
+PROJECT END DATE - 3/9/2023
 
 *******************************
 Thank you!
